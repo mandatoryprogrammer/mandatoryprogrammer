@@ -1,11 +1,9 @@
-<div style="text-align:center">
+<p align="center">
 	<img src="cyberpunk.gif?raw=true" width="100%" height="100%"/>
-	<i><h1> <code>"What can I do for you?"</code> </h1></i>
-</div>
+	<i><h1 align="center"> <code>"What can I do for you?"</code> </h1></i>
+</p>
 
 <hr />
-
-<center>
 
 | `SELECT A CHOICE`  |
 | ------------- |
@@ -27,5 +25,3 @@
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/mandatoryprogrammer/VietnamDNSLeak">`VietnamDNSLeak`</a><br/><center><i>Summary and archives of leaked Vietnam TLD DNS data</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/mandatoryprogrammer/comfortably-run">`comfortably-run`</a><br/><center><i>Inject JavaScript into arbitrary Chrome origins via the Chrome DevTools Protocol</i></center>  |
 
-
-</center>
