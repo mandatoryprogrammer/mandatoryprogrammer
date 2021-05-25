@@ -1,0 +1,10 @@
+<svg height='300px' width='300px' fill="#6659d8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" preserveAspectRatio="none" x="0px" y="0px" viewBox="0 -20 100 100">
+    <defs>
+        <g id="a">
+            <path fill="#6659d8" stroke="none" d=" M 56 68 L 56 56 44 56 44 68 56 68 M 32 68 L 32 80 44 80 44 68 32 68 M 44 44 L 56 44 56 32 44 32 44 44 M 68 44 L 56 44 56 56 68 56 68 44 M 44 32 L 44 20 32 20 32 32 44 32 Z"></path>
+        </g>
+    </defs>
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+        <use xlink:href="#a"></use>
+    </g>
+</svg>
