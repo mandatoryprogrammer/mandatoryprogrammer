@@ -7,7 +7,7 @@
 
 | `SELECT A CHOICE`  |
 | ------------- |
-| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/mandatoryprogrammer/xsshunter">`Self-hosted XSS Hunter`</a><br/><center><i>Tool for finding blind XSS</i></center>  |
+| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/mandatoryprogrammer/xsshunter-express">`Self-hosted XSS Hunter (Express)`</a><br/><center><i>Tool for finding blind XSS, set up in five minutes!</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/mandatoryprogrammer/CursedChrome">`CursedChrome`</a><br/><center><i>Man-in-the-browser extension/implant</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/mandatoryprogrammer/JudasDNS">`JudasDNS`</a><br/><center><i>Nameserver DNS poisoning attacks made easy</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak">`North Korean DNS Leak (.kp)`</a><br/><center><i>Snapshot of North Korea's DNS data taken from zone transfers</i></center>  |
